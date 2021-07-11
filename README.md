@@ -1,2 +1,3 @@
 # uaswd21
-Repository Source Code untuk UAS Web Design
+
+Bahan - Bahan UAS yang telah disiapkan dan dibuat oleh Gintriana K.P
